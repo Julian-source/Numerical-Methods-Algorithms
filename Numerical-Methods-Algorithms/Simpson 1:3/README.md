@@ -1,1 +1,1 @@
-
+This algorithm integrates an odd number of evenly spaced data points using the sumpsons 1/3 rule.  This algorithm's inputs include x (the equally spaced x values), and y (the function values that coorispond to each x value). This algorithm outputs I, the integral of the data set using simpsons one third rule.  
