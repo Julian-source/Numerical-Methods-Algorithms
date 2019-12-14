@@ -1,1 +1,1 @@
-
+This algorith creates an identity matrix P and transforms a square martix A into an Upper (U) and Lower (L) triangular matrix such that [P]*[A]=[L]*[U].  The only input of this algorithm is a square matrix A. The outputs of this matrix are L (a lower trianglar matrix), U (an upper triangular matrix), and P (the identity matrix of A).
